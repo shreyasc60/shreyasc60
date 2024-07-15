@@ -20,6 +20,6 @@ wish to actively contribute in AI Research Project, and to create creative, simp
 skills, and concepts; I would like to continue doing so as long as I dwell on this beautiful planet. 
 
 # Contact
-Let's get in touch: 
+Let's get in touch 
 - Signal:
 - Telegram: 
