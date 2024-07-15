@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hellow there! 👋
 
 <!--
 **shreyasc60/shreyasc60** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,5 +21,5 @@ skills, and concepts; I would like to continue doing so as long as I dwell on th
 
 # Contact
 Let's get in touch 
-- Signal:
+- Signal: @shreyasc.60
 - Telegram: 
