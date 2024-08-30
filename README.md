@@ -21,5 +21,4 @@ skills, and concepts; I would like to continue doing so as long as I dwell on th
 
 # Contact
 Let's get in touch 
-- Signal: @shreyasc.60
 - Telegram: @shreyasc60
